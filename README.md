@@ -1,7 +1,7 @@
 Maze Clouds
 ===========
 
-![screenshot](images/cumulus-violet.png) ![screenshot](images/stormy-aqua.png)
+![screenshot](images/cumulus-violet.png?raw=true) ![screenshot](images/stormy-aqua.png?raw=true)
 
 This is a gewgaw I came up with in September 2017.  You could call it
 a generative art technique, or you might feel that makes it sound more
