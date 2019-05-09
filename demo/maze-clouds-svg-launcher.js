@@ -104,18 +104,20 @@ function launch(config) {
     });
   }
 
-  makeButton(config.container, "Re-roll", function() {
+  var controlPanel = makeDiv(config.container);
+
+  makeButton(controlPanel, "Re-roll", function() {
     maze = makeMaze();
     redrawMaze();
   });
 
-  var hueLabel = makeLabel(config.container, "Hue:")
+  var hueLabel = makeLabel(controlPanel, "Hue:")
   makeSlider(hueLabel, 0, 359, 180, function(v) {
     hue = v;
     redrawMaze();
   });
 
-  makeSelect(config.container, "Visuals:", [
+  makeSelect(controlPanel, "Visuals:", [
     {
       text: 'Cumulus',
       value: 1,
