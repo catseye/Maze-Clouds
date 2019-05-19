@@ -80,6 +80,7 @@ function launch(config) {
           {
             text: 'Stormy',
             value: 3,
+            selected: true,
             obtainColour: function(x, y, depth) {
               var l = depth / maze.maxValue;
               var s = 1.0;
