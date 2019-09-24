@@ -1,5 +1,5 @@
 /*
- * dam.js, dam-widgets.js, and maze-clouds.js should be loaded before this.
+ * dam-plus-widgets-web.js and maze-clouds.js should be loaded before this.
  * After this is loaded, call launch() to start the gewgaw.
  */
 
