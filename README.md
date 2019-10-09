@@ -3,6 +3,8 @@ Maze Clouds
 
 ![screenshot](images/cumulus-violet.png?raw=true) ![screenshot](images/stormy-aqua.png?raw=true)
 
+_Try it online [here](https://catseye.tc/installation/Maze_Clouds)._
+
 This is a gewgaw I came up with in September 2017.  You could call it
 a generative art technique, or you might feel that makes it sound more
 important than it is, so you could call it a gewgaw.
@@ -12,10 +14,10 @@ an SVG file.  In 2019 I implemented a Javascript version that
 builds a SVG element in a web page.  Both implementations are
 in this distribution.
 
-To view the Javascript version, clone this repository and open
-[demo/maze-clouds.html](demo/maze-clouds.html) locally in a web browser.
-(I will also [install it online](https://catseye.tc/article/HTML5_Installations)
-at some point RSN -- watch this space.)
+To view the Javascript version, you can clone this repository and open
+[demo/maze-clouds.html](demo/maze-clouds.html) locally in a web browser,
+or you can just go view
+[the online installation at catseye.tc](https://catseye.tc/installation/Maze_Clouds).
 
 The logic for generating the maze is in the Javascript source
 [src/maze-clouds.js](src/maze-clouds.js) while the code for
