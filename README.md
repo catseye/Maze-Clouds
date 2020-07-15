@@ -1,9 +1,11 @@
 Maze Clouds
 ===========
 
-![screenshot](images/cumulus-violet.png?raw=true) ![screenshot](images/stormy-aqua.png?raw=true)
+_Try it online_ [@ catseye.tc](https://catseye.tc/installation/Maze_Clouds)
+| _See also:_ [Latcarf](https://github.com/catseye/Latcarf)
+∘ [Erratic Turtle Graphics](https://github.com/catseye/Erratic-Turtle-Graphics)
 
-_Try it online [here](https://catseye.tc/installation/Maze_Clouds)._
+![screenshot](images/cumulus-violet.png?raw=true) ![screenshot](images/stormy-aqua.png?raw=true)
 
 This is a gewgaw I came up with in September 2017.  You could call it
 a generative art technique, or you might feel that makes it sound more
