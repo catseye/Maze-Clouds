@@ -4,6 +4,7 @@ Maze Clouds
 _Try it online_ [@ catseye.tc](https://catseye.tc/installation/Maze_Clouds)
 | _See also:_ [Latcarf](https://github.com/catseye/Latcarf#readme)
 ∘ [Erratic Turtle Graphics](https://github.com/catseye/Erratic-Turtle-Graphics#readme)
+∘ [Kolakoski Kurve](https://github.com/catseye/Kolakoski-Kurve#readme)
 
 ![screenshot](images/cumulus-violet.png?raw=true) ![screenshot](images/stormy-aqua.png?raw=true)
 
